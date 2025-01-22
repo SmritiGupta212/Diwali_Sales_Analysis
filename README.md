@@ -16,8 +16,11 @@ Analyzed product sales to identify top-performing product categories and individ
 
 ## Technologies Used:
 -Python
+
 -Pandas (for data manipulation)
+
 -Matplotlib, Seaborn (for data visualization)
+
 -Jupyter Notebook (for documenting and presenting analysis)
 
 ## Data Overview:
