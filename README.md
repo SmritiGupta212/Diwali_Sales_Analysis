@@ -14,6 +14,12 @@ Identified key customer segments by analyzing demographic data (age, gender, occ
 5. Product Performance Analysis:
 Analyzed product sales to identify top-performing product categories and individual products. This insight enables better inventory planning, ensuring that the most popular products are in stock during high-demand periods, such as Diwali, ultimately driving sales.
 
+## Technologies Used:
+-Python
+-Pandas (for data manipulation)
+-Matplotlib, Seaborn (for data visualization)
+-Jupyter Notebook (for documenting and presenting analysis)
+
 ## Data Overview:
 
 The dataset contains information such as Gender, Age Group, State, Product Category, Amount, and Orders. Initial data exploration revealed missing values in the Amount column, which were subsequently handled. 
